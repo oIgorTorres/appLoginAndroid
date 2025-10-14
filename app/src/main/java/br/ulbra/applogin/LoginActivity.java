@@ -36,9 +36,15 @@ public class LoginActivity extends AppCompatActivity {
                 }else if(password.equals("")){
                     Toast.makeText(LoginActivity.this,"Senha não inserida, tente novamente",Toast.LENGTH_SHORT).show();
                 }else{
+
                     String res = db.validarLogin(username,password);
                     if(res.equals("OK")){
-                        Toast.makeText(LoginActivity.this,"Login OK !!",Toast.LENGTH_SHORT).show();
+
+
+                                Intent i = new Intent(LoginActivity.this, TelaPrincipalActivity.class);
+                                startActivity(i);
+
+
                     }else{
                         Toast.makeText(LoginActivity.this,"Login ou Senha errado(s)!!",Toast.LENGTH_SHORT).show();
                     }
@@ -53,6 +59,7 @@ public class LoginActivity extends AppCompatActivity {
                 startActivity(i);
             }
         });
+
     }
 }
 

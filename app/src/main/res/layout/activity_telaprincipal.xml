@@ -31,5 +31,16 @@
         app:layout_constraintVertical_bias="0.38"
         app:srcCompat="@drawable/cloud128" />
 
+    <Button
+        android:id="@+id/btnVoltarPrincipal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="200dp"
+        android:backgroundTint="@color/blue"
+        android:text="Voltar"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView5" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
 
