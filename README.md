@@ -67,7 +67,7 @@ O layout inicial (`activity_main.xml`) contém:
 
 ### Tela inicial
 
-img/img.png
+‎img/Captura de tela 2025-10-10 221327.png
 
 
 
