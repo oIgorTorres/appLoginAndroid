@@ -63,11 +63,28 @@ O layout inicial (`activity_main.xml`) contém:
 - 1 TextView
 
 
+
 ## 📸 Demonstração
 
 ### Tela inicial
 
-‎img/Captura de tela 2025-10-10 221327.png
+![Figura 1: Exemplo da tela inicial do aplicativo](/img/img.png)
+
+---
+
+## 🧰 Estrutura XML 2
+
+O layout inicial (`activity_registrar.xml`) contém:
+- 2 botões (um para registrar e outro para retornar)
+- 1 TextView
+- 4 Plain Text (um para o usuário inserir seu nome, email, senha e confirmar senha)
+
+
+
+## 📸 Demonstração
+
+### Tela registrar
+
 
 
 
