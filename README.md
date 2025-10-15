@@ -85,8 +85,42 @@ O layout inicial (`activity_registrar.xml`) contém:
 
 ### Tela registrar
 
+![Figura 1: Exemplo da tela registro do aplicativo](/img/img2.png)
+
+---
+
+## 🧰 Estrutura XML 3
+
+O layout inicial (`activity_login.xml`) contém:
+- 2 botões (um para logar e outro para retornar)
+- 1 TextView
+- 2 Plain Text (um para o usuário inserir seu email e senha)
 
 
+
+## 📸 Demonstração
+
+### Tela logar
+
+![Figura 1: Exemplo da tela registro do aplicativo](/img/img3.png)
+
+---
+
+## 🧰 Estrutura XML 4
+
+O layout inicial (`activity_telaprincipal.xml`) contém:
+- 1 botão (para retornar)
+- 1 TextView
+
+
+
+## 📸 Demonstração
+
+### Tela principal
+
+![Figura 1: Exemplo da tela registro do aplicativo](/img/img4.png)
+
+---
 
 ## 👩‍💻 Autor / Equipe
 
