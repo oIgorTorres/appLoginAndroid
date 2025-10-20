@@ -81,7 +81,7 @@ O layout inicial (`activity_registrar.xml`) contém:
 
 
 
-## 📸 Demonstração
+## 📸 Demonstração 2
 
 ### Tela registrar
 
@@ -98,7 +98,7 @@ O layout inicial (`activity_login.xml`) contém:
 
 
 
-## 📸 Demonstração
+## 📸 Demonstração 3
 
 ### Tela logar
 
@@ -114,7 +114,7 @@ O layout inicial (`activity_telaprincipal.xml`) contém:
 
 
 
-## 📸 Demonstração
+## 📸 Demonstração 4
 
 ### Tela principal
 
