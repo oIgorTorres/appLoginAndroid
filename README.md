@@ -85,7 +85,7 @@ O layout inicial (`activity_registrar.xml`) contém:
 
 ### Tela registrar
 
-![Figura 1: Exemplo da tela registro do aplicativo](/img/img2.png)
+![Figura 1: Exemplo da tela registro do aplicativo](/img/img.png)
 
 ---
 
